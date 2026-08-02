@@ -1,0 +1,8 @@
+a=set(["Jack","John","Eric"])
+print(a)
+b=set(["John","Jill"])
+print(b)
+print(a.intersection(b))
+print(a.union(b))
+print(a.difference(b))
+print(b.difference(a))
