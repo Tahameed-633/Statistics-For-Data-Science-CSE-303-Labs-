@@ -64,7 +64,7 @@ Statistics-for-Data-Science-CSE303/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Statistics-for-Data-Science-CSE303.git
+git clone https://github.com/Tahameed-633/Statistics-for-Data-Science-CSE303.git
 ```
 
 2. Navigate to the project directory
