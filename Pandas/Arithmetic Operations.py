@@ -1,0 +1,10 @@
+import pandas as pd
+li=pd.Series([7,5,3,8,1])
+print("Adding 5 with all values:")
+print(li+5)
+print("Mulplying 3 with all values:")
+print(li*3)
+print("Dividing all values with 2:")
+print(li/2)
+print("Subtracting 4 from all values:")
+print(li-4)
