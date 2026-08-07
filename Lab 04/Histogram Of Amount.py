@@ -1,0 +1,7 @@
+plt.figure(figsize=(10,5))
+plt.hist(df["Amount"],bins=20)
+plt.title("Histogram Of Amount")
+plt.xlabel("Amount")
+plt.ylabel("Frequency")
+plt.savefig("Amount_Histogram.png")
+plt.show()
