@@ -1,0 +1,7 @@
+plt.figure(figsize=(10,5))
+plt.hist(df["Time"],bins=20)
+plt.title("Histogram Of Time")
+plt.xlabel("Time")
+plt.ylabel("Frequency")
+plt.savefig("time_histogram.png")
+plt.show()
